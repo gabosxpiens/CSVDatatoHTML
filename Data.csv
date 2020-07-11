@@ -1,9 +1,9 @@
 product_name,description,price,is_offer,is_category
-1 kg langostinos + 1 kg tubo calamar + 1 kg chipirones,,"$1.580,00",yes,
-1/2 kg langostinos rebozados + 1/2 kg tubo de calamar,,"$600,00",yes,
-2 kg milanesas de merluza + 2 kg merluza,,"$1.050,00",yes,
-1 kg langostinos + 1 kg milanesas de merluza,,"$900,00",yes,
-1 kg mix de mar + 1 kg milanesas de merluza,,"$800,00",yes,
+Offer1,1 kg langostinos + 1 kg tubo calamar + 1 kg chipirones,"$1.580,00",yes,
+Offer2,1/2 kg langostinos rebozados + 1/2 kg tubo de calamar,"$600,00",yes,
+Offer3,2 kg milanesas de merluza + 2 kg merluza,"$1.050,00",yes,
+Offer4,1 kg langostinos + 1 kg milanesas de merluza,"$900,00",yes,
+Offer5,1 kg mix de mar + 1 kg milanesas de merluza,"$800,00",yes,
 ,,,,
 Pescados,,,,yes
 ,,,,
